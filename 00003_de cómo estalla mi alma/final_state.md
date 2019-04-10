@@ -1,3 +1,3 @@
 <gs-board without-header> GBB/1.0
-size 4 2
-head 0 0 </gs-board>
+size 2 2
+head 0 NaN </gs-board>
